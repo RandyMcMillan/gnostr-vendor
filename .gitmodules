@@ -1,3 +1,0 @@
-[submodule "ipfs"]
-	path = ipfs
-	url = https://github.com/RandyMcMillan/kubo.git
